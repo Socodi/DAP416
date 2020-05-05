@@ -1,0 +1,44 @@
+
+p {
+    font-family: cursive;
+}
+
+header{
+    background-color: aqua;
+
+    height: 100px;
+    width: 100%;
+
+}
+
+aside{
+    background-color: chartreuse;
+
+    width: 20%; 
+
+    float: left;
+}
+
+section{
+    background-color: red;
+
+    width: 80%; 
+    min-height: 700px;
+
+    float: right;
+}
+
+footer{
+    background-color: brown;
+
+    height: 100px;
+    width: 100%; 
+
+    clear: both;
+}
+
+.container{
+    width: 800px;
+
+    margin: 0 auto;
+}
